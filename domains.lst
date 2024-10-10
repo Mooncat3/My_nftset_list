@@ -769,3 +769,4 @@ nftset=/datacamp.com/4#inet#fw4#vpn_domains
 nftset=/tiktokw.eu/4#inet#fw4#vpn_domains
 nftset=/libraweb.tiktokw.eu/4#inet#fw4#vpn_domains
 nftset=/akamaiedge.net/4#inet#fw4#vpn_domains
+nftset=/*.discord.media/4#inet#fw4#vpn_domains
