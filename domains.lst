@@ -772,3 +772,4 @@ nftset=/akamaiedge.net/4#inet#fw4#vpn_domains
 nftset=/crl.comodoca.com/4#inet#fw4#vpn_domains
 nftset=/kym-cdn.com/4#inet#fw4#vpn_domains
 nftset=/huggingface.co/4#inet#fw4#vpn_domains
+nftset=/luscious.net/4#inet#fw4#vpn_domains
