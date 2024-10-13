@@ -785,3 +785,4 @@ nftset=/airhornbot.com/4#inet#fw4#vpn_domains
 nftset=/bigbeans.solutions/4#inet#fw4#vpn_domains
 nftset=/daveprotocol.com/4#inet#fw4#vpn_domains
 nftset=/watchanimeattheoffice.com/4#inet#fw4#vpn_domains
+nftset=/gstatic.com/4#inet#fw4#vpn_domains
