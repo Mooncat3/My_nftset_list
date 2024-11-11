@@ -786,3 +786,5 @@ nftset=/bigbeans.solutions/4#inet#fw4#vpn_domains
 nftset=/daveprotocol.com/4#inet#fw4#vpn_domains
 nftset=/watchanimeattheoffice.com/4#inet#fw4#vpn_domains
 nftset=/nvidia.com/4#inet#fw4#vpn_domains
+nftset=/neo4j.com/4#inet#fw4#vpn_domains
+nftset=/4it.me/4#inet#fw4#vpn_domains
