@@ -900,4 +900,3 @@ nftset=/neo4j.org/4#inet#fw4#vpn_domains
 nftset=/dist.neo4j.org/4#inet#fw4#vpn_domains
 nftset=/4it.me/4#inet#fw4#vpn_domains
 nftset=/.xxx/4#inet#fw4#vpn_domains
-nftset=/twitch.tv/4#inet#fw4#vpn_domains
